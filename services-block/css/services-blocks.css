@@ -1,0 +1,15 @@
+.section__title {
+  font-size: 2em;
+}
+
+.post__name {
+  font-size: 1.5em;
+  margin: auto;
+}
+
+@media (max-width: 480px){
+
+  .post {
+    width: 100%;
+  }
+}
